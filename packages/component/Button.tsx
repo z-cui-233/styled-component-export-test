@@ -1,6 +1,8 @@
 import styled, { ThemeProvider } from "styled-components";
 import React from "react";
 
+console.log("update component")
+
 const StyledButton = styled.button`
   border: 2px solid;
   color: ${(props) => {
