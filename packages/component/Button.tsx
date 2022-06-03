@@ -1,7 +1,7 @@
 import styled, { ThemeProvider } from "styled-components";
 import React from "react";
 
-console.log("update component")
+console.log("update component 2")
 
 const StyledButton = styled.button`
   border: 2px solid;
