@@ -12,5 +12,8 @@
   ],
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "multi-semantic-release": "^2.13.0"
+  }
 }
